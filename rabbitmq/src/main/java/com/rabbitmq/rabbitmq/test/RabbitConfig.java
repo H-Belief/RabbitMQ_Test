@@ -45,7 +45,7 @@ public class RabbitConfig {
     }
 
     /**
-     queueMessage只匹配"topic.message"队列
+     *  queueMessage只匹配"topic.message"队列
      *  queueMessages匹配两个队列，
      *
      *（星号）：可以（只能）匹配一个单词
